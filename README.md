@@ -6,15 +6,16 @@
 
 ## **Table of Contents**  
 
-1. [Project Overview](#project-overview)  
-2. [Motivation and Purpose](#motivation-and-purpose)  
-3. [Problem Statement and Objectives](#problem-statement-and-objectives)  
-4. [Dataset Description](#dataset-description)  
-5. [Model Architecture](#model-architecture)  
-6. [Installation and Usage](#installation-and-usage)  
-7. [Evaluation and Results](#evaluation-and-results)  
-8. [Contributing](#contributing)  
-9. [License](#license)  
+1. [Project Overview](#project-overview)
+2. [Video Demo](#Video-Demo)  
+3. [Motivation and Purpose](#motivation-and-purpose)  
+4. [Problem Statement and Objectives](#problem-statement-and-objectives)  
+5. [Dataset Description](#dataset-description)  
+6. [Model Architecture](#model-architecture)  
+7. [Installation and Usage](#installation-and-usage)  
+8. [Evaluation and Results](#evaluation-and-results)  
+9. [Contributing](#contributing)  
+10. [License](#license)  
 
 ---
 
@@ -22,6 +23,12 @@
 
 ### **Introduction**  
 This project explores how **Artificial Neural Networks (ANNs)** can be used to predict the amount an individual is likely to spend on a car based on key financial and demographic factors. Using a structured dataset, the model learns patterns and relationships between input features such as **age, salary, net worth, and credit card debt** to make precise predictions.  
+
+---
+
+## **Video Demo**  
+
+https://github.com/user-attachments/assets/f28bd6df-c229-4966-b7ab-eba2124d13ad
 
 ---
 
