@@ -28,7 +28,7 @@ This project explores how **Artificial Neural Networks (ANNs)** can be used to p
 
 ## **Video Demo**  
 
-https://github.com/user-attachments/assets/f28bd6df-c229-4966-b7ab-eba2124d13ad
+https://github.com/user-attachments/assets/f258ab45-d90f-489f-acfd-db34aa7a462e
 
 ---
 
